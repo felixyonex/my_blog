@@ -40,29 +40,14 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Haoming Wu"
-  website = "yourwebsite.com"
+  name = "Felix"
+  website = "https://felixyonex.github.io/"
   email = "whuwhm@outlook.com"
-  facebook = "username"
-  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   github = "username"
-  gitlab = "username"
-  bitbucket = "username"
-  twitter = "username"
-  reddit = "username"
   linkedin = "username"
-  xing = "username"
   stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
   instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  vk = "username"
-  paypal = "username"
-  telegram = "username"
+
 
 [[menu.main]]
     name = "Blog"
