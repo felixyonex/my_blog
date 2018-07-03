@@ -1,7 +1,7 @@
-baseurl = "https://username.github.io"
+baseurl = "https://felixyonex.github.io/my_blog"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Beautiful Hugo"
+title = "Felix Blog"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
+  subtitle = "Love the world, cherish every moment"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -63,10 +63,6 @@ pygmentsCodefencesGuessSyntax = true
 #   vk = "username"
 #   paypal = "username"
 #   telegram = "username"
-  github = "username"
-  linkedin = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  instagram = "username"
 
 
 [[menu.main]]
