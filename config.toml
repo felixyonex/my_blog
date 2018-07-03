@@ -63,10 +63,6 @@ pygmentsCodefencesGuessSyntax = true
 #   vk = "username"
 #   paypal = "username"
 #   telegram = "username"
-  github = "username"
-  linkedin = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  instagram = "username"
 
 
 [[menu.main]]
