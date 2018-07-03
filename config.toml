@@ -40,8 +40,8 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Haoming Wu"
-  website = "yourwebsite.com"
+  name = "Felix"
+  website = "https://felixyonex.github.io/"
   email = "whuwhm@outlook.com"
   facebook = "username"
 #   googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
@@ -63,6 +63,11 @@ pygmentsCodefencesGuessSyntax = true
 #   vk = "username"
 #   paypal = "username"
 #   telegram = "username"
+  github = "username"
+  linkedin = "username"
+  stackoverflow = "users/XXXXXXX/username"
+  instagram = "username"
+
 
 [[menu.main]]
     name = "Blog"
