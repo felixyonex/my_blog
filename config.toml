@@ -44,29 +44,29 @@ pygmentsCodefencesGuessSyntax = true
   website = "yourwebsite.com"
   email = "whuwhm@outlook.com"
   facebook = "username"
-  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+#   googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   github = "username"
   gitlab = "username"
-  bitbucket = "username"
-  twitter = "username"
-  reddit = "username"
+#   bitbucket = "username"
+#   twitter = "username"
+#   reddit = "username"
   linkedin = "username"
-  xing = "username"
+#   xing = "username"
   stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
+#   snapchat = "username"
   instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  vk = "username"
-  paypal = "username"
-  telegram = "username"
+#   youtube = "user/username" # or channel/channelname
+#   soundcloud = "username"
+#   spotify = "username"
+#   bandcamp = "username"
+#   itchio = "username"
+#   vk = "username"
+#   paypal = "username"
+#   telegram = "username"
 
 [[menu.main]]
     name = "Blog"
-    url = ""
+    url = "https://felixyonex.github.io/my_blog"
     weight = 1
 
 [[menu.main]]
