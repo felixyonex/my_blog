@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Felix Blog</title>
-    <link>https://felixyonex.github.io/my_blog/</link>
-    <description>Recent content on Felix Blog</description>
+    <title>Pages on Felix Blog</title>
+    <link>https://felixyonex.github.io/my_blog/page/</link>
+    <description>Recent content in Pages on Felix Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>whuwhm@outlook.com (Felix Wu)</managingEditor>
     <webMaster>whuwhm@outlook.com (Felix Wu)</webMaster>
-    <lastBuildDate>Fri, 06 Jul 2018 01:28:43 +1000</lastBuildDate>
     
-	<atom:link href="https://felixyonex.github.io/my_blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://felixyonex.github.io/my_blog/page/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>First blog</title>
-      <link>https://felixyonex.github.io/my_blog/post/firstblog/</link>
-      <pubDate>Fri, 06 Jul 2018 01:28:43 +1000</pubDate>
-      <author>whuwhm@outlook.com (Felix Wu)</author>
-      <guid>https://felixyonex.github.io/my_blog/post/firstblog/</guid>
-      <description>Hello Hi, this is my first blog. I built it with Hugo. Thanks to Hugo and open source community, I can easily build my blog site.
-Intro I&amp;rsquo;m Haoming, and you can call me Felix as well. Currently I&amp;rsquo;m a front-end web developer.
-Once I was a chemical engineer in a large petroleum company.</description>
-    </item>
     
     <item>
       <title>About me</title>
