@@ -14,13 +14,13 @@
     
     <item>
       <title>First blog</title>
-      <link>https://felixyonex.github.io/my_blog/post/firstblog/</link>
+      <link>https://felixyonex.github.io/my_blog/post/first-blog/</link>
       <pubDate>Fri, 06 Jul 2018 01:28:43 +1000</pubDate>
       <author>whuwhm@outlook.com (Felix Wu)</author>
-      <guid>https://felixyonex.github.io/my_blog/post/firstblog/</guid>
+      <guid>https://felixyonex.github.io/my_blog/post/first-blog/</guid>
       <description>Hello Hi, this is my first blog. I built it with Hugo. Thanks to Hugo and open source community, I can easily build my blog site.
 Intro I&amp;rsquo;m Haoming, and you can call me Felix as well. Currently I&amp;rsquo;m a front-end web developer.
-Once I was a chemical engineer in a large petroleum company.</description>
+My last position is a front-end developer in a start-up team called sky ladder. It is building a information platform for the college students to get the information they want about the graduate programs, the tutors and the target companies.</description>
     </item>
     
   </channel>
